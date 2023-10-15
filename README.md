@@ -1,2 +1,2 @@
 # Readme
-Template repo for data science
+Bees image processing project from datacamp
